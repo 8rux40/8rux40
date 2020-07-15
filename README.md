@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bruno Tardin
+[![Linkedin Badge](https://img.shields.io/badge/-btardin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/btardin/)](https://www.linkedin.com/in/btardin/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunotardin20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunotardin20@gmail.com)](mailto:brunotardin20@gmail.com)
 
-<!--
-**8rux40/8rux40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+I'm Bruno, I'm a developer and database analyst 👨‍💻 who is passionate about tech. 
 
-Here are some ideas to get you started:
+- 💼 I’m currently working at **Unimed Norte Fluminense** 
+- 🌱 I’m currently learning **React**
+- 💬 Confortable with: **Brazilian Portuguese** and **English**
+- ⚡ Techs: **Oracle PL/SQL**, **JavaScript**, **PHP**, **C**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Wololo
