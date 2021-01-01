@@ -6,9 +6,9 @@
 I'm a developer and database analyst 👨‍💻 who is passionate about tech. 
 
 - 💼 I’m currently working at **Unimed Norte Fluminense** 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **VueJS**
 - 💬 Confortable with: **Brazilian Portuguese** and **English**
-- ⚡ Techs: **Oracle PL/SQL**, **JavaScript**, **PHP**, **C**
+- ⚡ Techs: **Oracle PL/SQL**, **JavaScript**, **Laravel**, **PHP**, **C**
 
 
 > Wololo
