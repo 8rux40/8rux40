@@ -5,8 +5,9 @@
 ## About Me 
 I'm a developer and database analyst 👨‍💻 who is passionate about tech. 
 
-- 💼 I’m currently working at **Unimed Norte Fluminense** 
-- 🌱 I’m currently learning **VueJS**
+- 💼 Working at **Unimed Norte Fluminense** 
+- 👨‍🎓 Coursing Bachelor in Information Systems at **Instituto Federal de Educação, Ciência e Tecnologia Fluminense**
+- 🌱 I’m currently learning **Android** and **VueJs**
 - 💬 Confortable with: **Brazilian Portuguese** and **English**
 - ⚡ Techs: **Oracle PL/SQL**, **Java**, **JavaScript**, **Laravel**, **PHP**, **C**
 
