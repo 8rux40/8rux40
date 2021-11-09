@@ -5,7 +5,7 @@
 ## About Me 
 I'm a tech analyst 👨‍💻 who is passionate about tech. 
 
-- 💼 Working at **Banco Inter** 
+- 💼 Working at **Inter** 
 - 👨‍🎓 Coursing Bachelor in Information Systems at **Instituto Federal de Educação, Ciência e Tecnologia Fluminense**
 - 💬 Confortable with: **Brazilian Portuguese** and **English**
 - ⚡ Techs: **Java**, **Oracle PL/SQL**, **JavaScript**, **Laravel**, **PHP**, **C**
